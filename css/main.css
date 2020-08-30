@@ -409,6 +409,7 @@ padding: 7px;
     text-decoration:none;
     transition: 0.3s;
     text-align: center;
+    margin-top: 3px;
 }
 .phone a:hover {
     border-bottom: 1px solid rgba(204, 204, 204, 0.856);
